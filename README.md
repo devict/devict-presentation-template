@@ -4,7 +4,7 @@ This repo is intended to serve as a quick starting point for putting together a
 presentation. Presenters are welcome to use this template or roll their own
 presentation.
 
-This starter kit uses the [reveal.js presentation framework][reveal-repo]>
+This starter kit uses the [reveal.js presentation framework][reveal-repo].
 
 ## Setup
 * Download this package. Either clone the repo or download and unpack the
