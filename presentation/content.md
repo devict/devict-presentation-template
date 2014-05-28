@@ -1,7 +1,7 @@
 # Awesome Presentation
 By You
 
-![UpFront Wichita](/img/upfront-logo.svg)
+![DevICT](/img/devict-logo.svg)
 
 
 

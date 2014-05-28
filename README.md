@@ -1,4 +1,4 @@
-# UpFront Wichita Presentation Template
+# DevICT Presentation Template
 
 This repo is intended to serve as a quick starting point for putting together a
 presentation. Presenters are welcome to use this template or roll their own
@@ -27,4 +27,4 @@ This starter kit uses the [reveal.js presentation framework][reveal-repo].
 
 
 [reveal-repo]: https://github.com/hakimel/reveal.js "reveal.js framework"
-[repo-zip]: https://github.com/upfrontwichita/upfront-presentation-template/archive/master.zip "template zip"
+[repo-zip]: https://github.com/devict/devict-presentation-template/archive/master.zip "template zip"
