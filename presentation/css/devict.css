@@ -5,3 +5,8 @@ body > div.reveal:after {
   bottom: 10px;
   left: 10px;
 }
+
+.reveal section img[alt=DevICT] {
+  border: 0;
+  box-shadow: none;
+}
