@@ -1,7 +1,7 @@
 # Awesome Presentation
 By You
 
-![DevICT](/img/devict-logo.png)
+![devICT](/img/devict-logo.png)
 
 
 

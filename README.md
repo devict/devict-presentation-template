@@ -1,4 +1,4 @@
-# DevICT Presentation Template
+# devICT Presentation Template
 
 This repo is intended to serve as a quick starting point for putting together a
 presentation. Presenters are welcome to use this template or roll their own
